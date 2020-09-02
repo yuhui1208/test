@@ -1,1 +1,2 @@
 gpg test
+gpg sign
