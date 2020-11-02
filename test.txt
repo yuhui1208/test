@@ -3,5 +3,5 @@ gpg sign
 
 gpg sign home
 
-gpg e5 test ...
+gpg e5 test
 
