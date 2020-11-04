@@ -2,3 +2,5 @@ gpg test
 gpg sign
 
 gpg sign home
+
+gpg test
