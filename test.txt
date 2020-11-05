@@ -7,3 +7,5 @@ gpg e5 test
 
 gpg
 
+gpg test
+
